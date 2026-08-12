@@ -54,5 +54,5 @@ public class ArrayDinamico {
 		}
 		return newArray;
 		
-	}
+	} 
 }
